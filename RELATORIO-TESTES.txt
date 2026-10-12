@@ -1,0 +1,8 @@
+Origem internacional, pasta fonte e exclusão de painel/configurações/backups
+Aplicação do site em inglês preserva cópia anterior
+Commit e envio Git reais para repositório de teste local, sem acesso à conta do usuário
+Repetir envio sem alterações não cria commit
+Nova edição é detectada e enviada
+Repositório diferente é bloqueado
+Ações da interface e destino exclusivo conferidos; sem executar janela Windows
+Limites: interface Windows e login GitHub do usuário não foram executados. GitHub Pages ainda precisa ser ativado. Testes Git usaram somente repositório temporário local.

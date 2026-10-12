@@ -1,0 +1,10 @@
+PESQUISA — 11/10/2026
+Opções para começar a buscar clientes internacionais:
+Fiverr https://www.fiverr.com/ — ofereça um serviço específico, como landing page estática. https://www.fiverr.com/legal-portal/legal-terms/payment-terms-of-service
+Upwork https://www.upwork.com/ — procure projetos pequenos com escopo fechado. Confira o custo de propostas/Connects e as taxas antes de candidatar. https://support.upwork.com/hc/en-us/articles/211060918-How-to-get-paid-on-Upwork
+Freelancer https://www.freelancer.com/ — propostas para projetos; consulte taxas e condições de saque. https://www.freelancer.com/support/payments/paypal-withdrawals
+
+As plataformas podem exigir verificação e cobram taxas. Cadastro não garante serviços nem renda. Confira a disponibilidade de saque para sua conta e país. PayPal é uma opção de saque anunciada pelas plataformas, mas pagamento do cliente deve seguir as regras internas. Não use seu portfólio para contornar pagamentos de marketplace.
+Para clientes diretos, combine escopo, moeda, revisões e marcos antes de enviar uma cobrança PayPal. O e-mail do portfólio NÃO foi presumido como conta PayPal.
+
+Verificações deste pacote: 5 HTMLs em inglês, referências locais e âncoras válidas, IDs únicos, sintaxe JS, filtros de categorias All/Desk/Home e integridade ZIP. Não foi publicado nem houve teste visual em navegador nesta entrega.

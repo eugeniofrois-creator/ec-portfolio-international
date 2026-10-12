@@ -1,0 +1,23 @@
+EC STUDIO INTERNACIONAL — PRONTO PARA ec-portfolio-international
+
+1. Extraia o pacote em uma pasta SEPARADA chamada EC-Studio-International.
+2. Abra Abrir-Painel.cmd na raiz.
+3. Clique 1. Conectar / baixar repositório. Ele clonará:
+   https://github.com/eugeniofrois-creator/ec-portfolio-international.git
+   para Painel-EC/projeto (pasta exclusiva deste painel).
+4. Se precisar entrar, use Entrar no GitHub pelo navegador / Google e autorize sua conta eugeniofrois-creator.
+5. Configure nome e e-mail do Git, se solicitado. Use o e-mail cadastrado no GitHub ou o noreply da sua conta. Isso é salvo no clone local, não no pacote.
+6. Clique Aplicar atualização deste pacote e publicar. Serão copiados os arquivos em inglês e enviados ao repositório. A aplicação guarda cópia dos arquivos que substitui em Painel-EC/backups.
+7. Na aba Actions, clique Configurar GitHub Pages. Selecione Deploy from a branch, main, /(root), Save. Esta ativação ainda precisa acontecer na conta do dono.
+8. Volte ao painel e clique 3. Ativar publicação automática.
+9. Para editar, use Abrir pasta para editar. A pasta monitorada é Painel-EC/projeto; não a raiz do pacote.
+10. Com o painel aberto e automático ativado, após 30 segundos sem edições ele envia as mudanças. Fechar o painel interrompe a automação.
+
+Endereço esperado após ativar Pages e publicar:
+https://eugeniofrois-creator.github.io/ec-portfolio-international/
+Ainda não publicado por esta entrega.
+
+NÃO extraia em cima do painel brasileiro nem copie config.local.json do painel brasileiro. A validação bloqueia outro repositório. Autenticação fica no Git Credential Manager. Nenhuma senha/token é incluída.
+Se Python ou Git estiverem ausentes, o iniciador tenta instalar os aplicativos oficiais via winget e poderá solicitar interação. Se já instalados, usa os existentes.
+Conflitos/erro de envio pausam o automático; nenhuma operação usa force push, reset ou limpeza do projeto.
+Links /Actions e /Pages foram ajustados para o repositório internacional. Somente arquivos do site permitidos são copiados; painel, configurações e backups não vão ao repositório.
