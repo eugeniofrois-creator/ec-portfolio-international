@@ -1,30 +1,16 @@
-EC PORTFOLIO INTERNATIONAL — v1 — 11/10/2026
-Baseado no portfólio EC v31, mantendo a marca e os contatos originais.
-Pacote separado: não substitui o portfólio brasileiro.
+EC — International v2 — ATUALIZAÇÃO
 
-PUBLICAR NO GITHUB PAGES
-1. Crie um repositório público chamado ec-portfolio-international.
-2. Abra Add file > Upload files.
-3. Envie o CONTEÚDO desta pasta: index.html, demais HTMLs, styles.css, site.js e a pasta assets.
-   Não envie apenas o ZIP e não coloque outra pasta envolvendo index.html.
-4. Clique Commit changes.
-5. Settings > Pages > Build and deployment > Deploy from a branch.
-6. Selecione main e /(root). Clique Save.
-7. Aguarde a publicação. O endereço esperado é:
-   https://eugeniofrois-creator.github.io/ec-portfolio-international/
-   Esse endereço é previsto, não foi publicado nesta entrega.
+1. Feche o painel antigo.
+2. Extraia os arquivos sobre a pasta existente EC-Portfolio-International, substituindo os arquivos.
+3. Preserve Painel-EC/config.local.json, projeto, backups e a pasta .git. Não estão neste ZIP.
+4. Abra Atualizar-Site.cmd. Ele aplica o pacote na pasta conectada e publica.
+5. No painel, ative Publicação automática para enviar novas edições após 30 segundos sem mudanças, enquanto ele estiver aberto.
 
-ABRIR LOCALMENTE
-Abra index.html. Todos os arquivos visuais são locais e as referências são relativas.
+Repositório exclusivo: eugeniofrois-creator/ec-portfolio-international.
+Se a pasta não estiver configurada, escolha a pasta já clonada desse repositório e use Aplicar atualização deste pacote e publicar. Não escolha o repositório do outro portfólio.
+Na aba Actions, abra a versão pública e confira a publicação. O endereço público permanece o mesmo.
+Login e identidade Git precisam estar configurados no seu PC. O pacote não contém credenciais e não cria repositórios remotamente.
 
-EDITAR
-Textos: index.html. Aparência: styles.css. Interações: site.js.
-Contato atual: eugenioseia1@hotmail.com, confirmado no currículo original.
-LinkedIn usa o endereço do currículo; verifique seu perfil antes de compartilhar.
-Não existe formulário servidor: o botão abre o aplicativo de e-mail com a mensagem pronta.
-A página não tem contas, banco, pagamento automático, coleta de cartão ou chatbot.
+Os arquivos e a lógica de sincronização foram verificados. A interface Windows deve ser conferida no seu PC.
 
-PAYPAL
-O site informa que o pagamento direto pode ser combinado após orçamento. Não há checkout ativado nem conta PayPal inventada. Configure/verifique sua conta e forneça depois o link de cobrança oficial, se necessário. Não coloque senha/chave secreta no GitHub. Para clientes de marketplaces, mantenha pagamentos e contatos conforme as regras dessas plataformas.
-
-Demonstrações e produtos são fictícios, identificados como exemplos. TecZelio é apresentado como projeto em desenvolvimento. Não há depoimentos, clientes ou certificações inventados.
+Se o repositório internacional ainda não existir, crie ec-portfolio-international no GitHub, conecte pelo painel e configure Pages: main / raiz. O endereço previsto é https://eugeniofrois-creator.github.io/ec-portfolio-international/ .

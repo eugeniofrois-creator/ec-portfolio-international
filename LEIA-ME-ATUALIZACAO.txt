@@ -1,0 +1,14 @@
+EC — International v2 — ATUALIZAÇÃO
+
+1. Feche o painel antigo.
+2. Extraia os arquivos sobre a pasta existente EC-Portfolio-International, substituindo os arquivos.
+3. Preserve Painel-EC/config.local.json, projeto, backups e a pasta .git. Não estão neste ZIP.
+4. Abra Atualizar-Site.cmd. Ele aplica o pacote na pasta conectada e publica.
+5. No painel, ative Publicação automática para enviar novas edições após 30 segundos sem mudanças, enquanto ele estiver aberto.
+
+Repositório exclusivo: eugeniofrois-creator/ec-portfolio-international.
+Se a pasta não estiver configurada, escolha a pasta já clonada desse repositório e use Aplicar atualização deste pacote e publicar. Não escolha o repositório do outro portfólio.
+Na aba Actions, abra a versão pública e confira a publicação. O endereço público permanece o mesmo.
+Login e identidade Git precisam estar configurados no seu PC. O pacote não contém credenciais e não cria repositórios remotamente.
+
+Os arquivos e a lógica de sincronização foram verificados. A interface Windows deve ser conferida no seu PC.
